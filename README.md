@@ -24,4 +24,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="nayanpradhan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
+<a href="https://linkedin.com/in/nayanpradhan">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 [linkedin]: https://linkedin.com/in/nayanpradhan
