@@ -1,9 +1,10 @@
 ### Hey there 👋
 
-[<img align="left" alt="nayanpradhan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-[linkedin]: https://linkedin.com/in/nayanpradhan
+**About Me:**
+- 👨‍💻 Second year undergraduate student at Jacobs University
+- 🤖 Major: Robotics and Intelligent Systems 
+- 💻 Minor: Computer Science
+- 📍 Place: Bremen, Germany
 
 <!---
 Here are some ideas to get you started:
@@ -17,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img align="left" alt="nayanpradhan@linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+[linkedin]: https://linkedin.com/in/nayanpradhan
