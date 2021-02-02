@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/nayan-pradhan">
   <img align="left" alt="Nayan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<!---
 <a href="https://www.facebook.com/nayan.pradhan.92/">
   <img align="left" alt="Nayan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+-->
