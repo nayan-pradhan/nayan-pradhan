@@ -7,9 +7,9 @@
 - 📍 Place: Bremen, Germany
 <!---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-pradhan&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![Nayan's github stats](https://github-readme-stats.vercel.app/api?username=nayan-pradhan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Nayan's github stats](https://github-readme-stats.vercel.app/api?username=nayan-pradhan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!---
 Here are some ideas to get you started:
 
