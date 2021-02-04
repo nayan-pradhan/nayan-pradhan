@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**An article written by me: **
+<a href="https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6">
+  <img align="left" alt="Nayan's Article on the Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+[K-Nearest Neighbors Algorithm](https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6)
+
 **Connect with me:**
 
 <a href="https://linkedin.com/in/nayanpradhan">
@@ -34,10 +40,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/nayan-pradhan">
   <img align="left" alt="Nayan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6">
-  <img align="left" alt="Nayan's Article on the Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
 
 <!---
 <a href="https://www.facebook.com/nayan.pradhan.92/">
