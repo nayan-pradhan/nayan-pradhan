@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 -->
 
 **An article written by me: **
-<a href="https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6">
-  <img align="left" alt="Nayan's Article on the Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 [K-Nearest Neighbors Algorithm](https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6)
 
 **Connect with me:**
@@ -44,5 +41,9 @@ Here are some ideas to get you started:
 <!---
 <a href="https://www.facebook.com/nayan.pradhan.92/">
   <img align="left" alt="Nayan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6">
+  <img align="left" alt="Nayan's Article on the Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 -->
