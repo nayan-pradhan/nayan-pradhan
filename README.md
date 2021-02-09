@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there, it's Nayan 👋
 
 **About Me:**
 - 👨‍💻 Second year undergraduate student at Jacobs University
@@ -37,13 +37,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/nayan-pradhan">
   <img align="left" alt="Nayan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-<!---
-<a href="https://www.facebook.com/nayan.pradhan.92/">
-  <img align="left" alt="Nayan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6">
-  <img align="left" alt="Nayan's Article on the Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
--->
