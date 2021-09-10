@@ -1,7 +1,7 @@
 ### Hey there, it's Nayan 👋
 
 **About Me:**
-- 👨‍💻 Second year undergraduate student at Jacobs University
+- 👨‍💻 Third year undergraduate student at Jacobs University
 - 🤖 Major: Robotics and Intelligent Systems 
 - 💻 Minor: Computer Science
 - 📍 Place: Bremen, Germany
