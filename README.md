@@ -1,10 +1,9 @@
 ### Hey there, it's Nayan 👋
 
 **About Me:**
-- 👨‍💻 Third year undergraduate student at Jacobs University
-- 🤖 Major: Robotics and Intelligent Systems 
-- 💻 Minor: Computer Science
-- 📍 Place: Bremen, Germany
+- 🎓 B.Sc in Intelligent Mobile Systems with a minor in Computer Science from Jacobs University
+- 🤖 Interested in Robotics, Intelligent Systems, Artificial Intelligence, Machine Learning, Computer Vision, Software Engineering
+- 📍 Bremen, Germany
 <!---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-pradhan&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,8 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**An article written by me:**
+<!---**An article written by me:**
 [K-Nearest Neighbors Algorithm](https://medium.com/machine-learning-algorithms-101/k-nearest-neighbors-algorithm-59a890b9b1c6)
+-->
 
 **Connect with me:**
 
