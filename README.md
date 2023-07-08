@@ -3,7 +3,7 @@
 **About Me:**
 - 🎓 B.Sc in Intelligent Mobile Systems with a minor in Computer Science from Jacobs University
 - 🤖 Interested in Robotics, Intelligent Systems, Artificial Intelligence, Machine Learning, Computer Vision, Software Engineering
-- 📍 Stuttgart, Germany
+- 📍 Berlin, Germany
 <!---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-pradhan&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
